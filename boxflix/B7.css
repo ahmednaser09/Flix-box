@@ -1,0 +1,62 @@
+.ahmed  {
+    border: 6px solid orangered;
+    height: 500px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    text-align: center;
+    color: white;
+  }
+  
+  .P1 {
+    background-color: rgb(41, 46, 41);
+    height: 50px;
+    width: 100%;
+    align-self: baseline;
+   
+  }
+  .P2 {
+    background-color: rgb(96, 37, 172);
+    height: 60px;
+    width: 100%;
+  }
+  .P3 {
+    background-color: rgb(249, 2, 241);
+    height: 60px;
+    width: 100%;
+  }
+  .P4 {
+    background-color: rgb(18, 6, 49);
+    height: 60px;
+    width: 100%;
+  }
+  .P5{
+    background-color: rgb(255, 187, 0);
+    height: 60px;
+    width: 100%;
+  }
+  .P6 {
+    background-color: rgb(255, 166, 0);
+    height: 60px;
+    width: 100%;
+  }
+  .P7 {
+    background-color: rgba(171, 21, 21, 0.842);
+    height: 60px;
+    width: 100%;
+  }
+  .P8 {
+    background-color: rgb(138, 124, 124);
+    height: 60px;
+    width: 100%;
+  }
+   .P9 {
+    background-color: rgb(140, 219, 140);
+    height: 60px;
+    width: 100%;
+  }
+  .P10 {
+    background-color: rgb(20, 128, 20);
+    height: 60px;
+    width: 100%;
+  }
