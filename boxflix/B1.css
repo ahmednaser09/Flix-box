@@ -1,0 +1,36 @@
+.box {
+    height: 1000px;
+    background-color: #e74c3c;
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+
+}
+.box div{
+    margin: 10px;
+    height: 200px;
+}
+.PP {
+    background-color: aliceblue;
+    width: 100px;
+    height: 150px;
+}
+
+.PS {
+    background-color: aliceblue;
+    width: 100px;
+    height: 150px;
+}
+
+.PA {
+    background-color: aliceblue;
+    width: 100px;
+    height: 150px;
+
+}
+
+.PB {
+    background-color: aliceblue;
+    width: 100px;
+    height: 150px;
+}
